@@ -1,0 +1,13 @@
+.weather-icon{
+    font-size: 50px;
+    font-weight: 500;
+}
+.location h1{
+    font-size: 40px;
+}
+.weather-wrapper{
+    background: rgb(79, 77, 77);
+   color: white;
+   padding-top: 70px;
+   padding-bottom: 70px;
+}
