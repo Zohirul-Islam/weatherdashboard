@@ -5,7 +5,7 @@ import { TiWeatherDownpour } from "react-icons/ti";
 
 function Header() {
   return (
-    <header>
+    <header className="shadow mb-5">
       <div className="container">
         <div className="row py-4 justify-content-between align-items-center">
           <div className="col-lg-5">
